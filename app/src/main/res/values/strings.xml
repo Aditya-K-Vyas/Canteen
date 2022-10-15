@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Canteen</string>
+    <string name="order_food">Order Food</string>
+    <string name="item_1">Burger</string>
+    <string name="item_2">Samosa</string>
+    <string name="item_3">Roll</string>
+    <string name="item_4">Idly</string>
+    <string name="item_5">Wada</string>
+    <string name="item_6">Veg thali</string>
+    <string name="choose_qty">Choose Flavor</string>
+    <string name="qty_1">One</string>
+    <string name="qty_2">Two</string>
+    <string name="qty_3">Three</string>
+    <string name="qty_4">Four</string>
+    <string name="qty_5">Five</string>
+    <string name="qty_6">Six</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="item">Item</string>
+    <string name="quantity">Quantity</string>
+    <string name="venue">Venue</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_canteen_app">New Order</string>
+    <string name="order_details">Food_item: %1$s \n Quantity: %2$s \nRoom: %3$s \n
+        Total: %4$s \n\n Thank you!</string>
+    <string name="back_button">Back</string>
+    <plurals name="items">
+        <item quantity="one">%d </item>
+        <item quantity="other">%d </item>
+    </plurals>
+</resources>
